@@ -2,7 +2,7 @@
 Returns alist of domains within specified price limits 
 
 Usage:
-  docopt-test.py <min_price> <max_price> 
+  namecheap-parse.py <min_price> <max_price> 
 """
 from docopt import docopt
 import requests
